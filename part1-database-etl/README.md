@@ -1,0 +1,1 @@
+Contains the ETL script and SQL queries for the transactional database.
